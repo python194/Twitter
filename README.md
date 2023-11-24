@@ -5,3 +5,8 @@ Hướng Dẫn :
 4. Run file main.exe.
 
 Note:( This Version is Not Support Windows 11 )
+
+Update tính năng:
+1. Lướt trang chủ để tương tác giống người.
+2. Tương tác với trang cá nhân trước khi thực hiện thả tym và lick quảng cáo.
+3. Không click lại quảng cáo đã click trước đó.
