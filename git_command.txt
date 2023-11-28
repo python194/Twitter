@@ -1,0 +1,38 @@
+Token github
+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
+
+git config --global user.email "anhtunote@gmail.com"
+git config --global user.name "python194"
+Cập nhật thay đổi
+git add .
+git commit -m "Version 1.0.1"
+git commit -m "Hướng Dẫn"
+git push origin master
+
+
+pyinstaller --onefile Main.py
+python setup.py py2exe
+
+
+Version 1.0.0
+Updating ... : tương tác với trang chủ trước khi chéo tài khoản,chéo tài khoản xong lại lướt trang chủ,đã thêm vòng lặp vô hạn để tránh tình trạng tắt trình duyệt.Mọi người test giúp mình nhé !
+
+mklink /d "C:\Users\HAN ANH TU\Desktop\Twitter\dist" "H:\My Drive\Code python\Twitter\Twitter"
+
+
+
+
+Lấy chuỗi Txt
+# Mở file và đọc nội dung
+with open('api.txt', 'r') as file:
+    lines = file.readlines()
+
+# Tìm và trích xuất nội dung trong dấu nháy kép
+number = None
+for line in lines:
+    if 'number' in line:
+        # Lấy phần trong dấu nháy kép
+        number = line.split('"')[1]
+
+# In giá trị của biến number
+print(number)
