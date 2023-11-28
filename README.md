@@ -7,10 +7,4 @@ Hướng Dẫn :
 
 Note:( This Version is Not Support Windows 11 )
 
-Update tính năng:
-1. Lướt trang chủ để tương tác giống người.
-2. Tương tác với trang cá nhân trước khi thực hiện thả tym và lick quảng cáo.
-3. Không click lại quảng cáo đã click trước đó.
-
-
-( Trong file excel dòng đầu tiền là Account X của mình nhé,anh em tương tác giúp )
+1.0.2: Added ChatGPT 3.5 With API
