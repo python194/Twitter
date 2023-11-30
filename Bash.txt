@@ -1,8 +1,0 @@
-folders=("path 1" "path 2" "path 3")
-destination="/path destination"
-echo "Đang sao chép, vui lòng không thao tác"
-for folder in "${folders[@]}"; do
-    echo "Sao chép thư mục $folder đến $destination"
-    cp -r /s /e /i /h /k "$folder" "$destination"
-done
-echo "Sao chép đã hoàn thành"
