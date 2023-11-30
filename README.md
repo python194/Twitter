@@ -6,7 +6,8 @@ Update 1.0.2
 
 Hướng Dẫn Chung : 
 
-	- Cài đặt Chromium 114 có trong Folder Library
+	- Cài đặt Chromium 114 tại link sau
+	( https://chromium.en.uptodown.com/windows/download/100677557 )
 	- Copy Folder chromedriver vào thư mục gốc của ổ C 
 	( sau khi copy xong sẽ có dạng như sau : "C:\chromedriver" )
 	- Chạy file chromedriver.exe trong Folder "C:\chromedriver" để xác nhận thư viện.
