@@ -15,3 +15,9 @@ Hướng Dẫn Chung :
 	- Quay lại Folder "Twitter Automation" , đổi tên file "api_key.txt.example" thành "api_key.txt"
 	- Chạy File Twitter Automation ( icon màu xanh ) để thưởng thức
 	- Để chéo tài khoản,vui lòng thêm link bài viết vào file Excel như mẫu
+
+Donate nếu có nhu cầu :
+
+	- STK : 0021000408140
+	- Ngân Hàng : Vietcombank
+	- Chủ Tài Khoản : HÁN ANH TƯ
