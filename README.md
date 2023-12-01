@@ -1,3 +1,8 @@
+UPDATE 1.0.3
+
+	- Support Windows 10,11
+
+
 UPDATE 1.0.2
 
 	- Fix cuộn tới cuối trang rồi tự động cuộn lên
