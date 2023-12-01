@@ -18,7 +18,7 @@ HƯỚNG DẪN CHUNG :
 	( sau khi copy xong sẽ có dạng như sau : "C:\chromedriver" )
 	- Chạy file chromedriver.exe trong Folder "C:\chromedriver" để xác nhận thư viện.
 	- Quay lại Folder "Twitter Automation" , đổi tên file "api_key.txt.example" thành "api_key.txt"
-	- Chạy File Twitter Automation ( icon màu xanh ) để thưởng thức
+	- Chạy File Twitter Automation để thưởng thức
 	- Để chéo tài khoản,vui lòng thêm link bài viết vào file Excel như mẫu
 
 DONATE NẾU CÓ NHU CẦU :
