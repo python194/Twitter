@@ -1,6 +1,6 @@
 UPDATE 1.0.3
 
-	- Support Windows 10,11
+	- Support Windows 10
 
 
 UPDATE 1.0.2
