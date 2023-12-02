@@ -13,7 +13,10 @@ UPDATE 1.0.2
 
 HƯỚNG DẪN CHUNG : 
 
-	- Cài đặt Chromium 114 bằng chocolatey
+	- Cài đặt Chocolatey,mở powershell với quyền admin, sau đó chạy dòng lệnh sau : 
+	"Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))"
+
+	- Cài đặt Chromium 114 bằng chocolatey : "choco install chromium --version=114.0.5735.199 -y"
 	- Copy Folder chromedriver vào thư mục gốc của ổ C 
 	( sau khi copy xong sẽ có dạng như sau : "C:\chromedriver" )
 	- Chạy file chromedriver.exe trong Folder "C:\chromedriver" để xác nhận thư viện.
