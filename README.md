@@ -1,6 +1,7 @@
 UPDATE 1.0.3
 
 	- Support Windows 10
+	- Add câu trả lời tùy chọn với ChatGPT
 
 
 UPDATE 1.0.2
