@@ -2,6 +2,7 @@ UPDATE 1.0.3
 
 	- Support Windows 10
 	- Add câu trả lời tùy chọn với ChatGPT
+	- Bỏ cuộn trang Ads
 
 
 UPDATE 1.0.2
@@ -17,6 +18,7 @@ HƯỚNG DẪN CHUNG :
 	"Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))"
 
 	- Cài đặt Chromium 114 bằng chocolatey : "choco install chromium --version=114.0.5735.199 -y"
+	- Cài đặt Git : "choco install git.install -y"
 	- Copy Folder chromedriver vào thư mục gốc của ổ C 
 	( sau khi copy xong sẽ có dạng như sau : "C:\chromedriver" )
 	- Chạy file chromedriver.exe trong Folder "C:\chromedriver" để xác nhận thư viện.
