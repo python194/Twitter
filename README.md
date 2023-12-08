@@ -20,6 +20,7 @@ HƯỚNG DẪN CHUNG :
 
 	- Cài đặt Chromium 114 bằng chocolatey : "choco install chromium --version=114.0.5735.199 -y"
 	- Cài đặt Git : "choco install git.install -y"
+	- Clone : "git clone https://github.com/python194/Twitter.git"
 	- Copy Folder chromedriver vào thư mục gốc của ổ C 
 	( sau khi copy xong sẽ có dạng như sau : "C:\chromedriver" )
 	- Chạy file chromedriver.exe trong Folder "C:\chromedriver" để xác nhận thư viện.
