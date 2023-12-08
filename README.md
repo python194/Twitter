@@ -27,6 +27,8 @@ HƯỚNG DẪN CHUNG :
 	- Quay lại Folder "Twitter Automation" , đổi tên file "api_key.txt.example" thành "api_key.txt"
 	- Chạy File Twitter Automation để thưởng thức
 	- Để chéo tài khoản,vui lòng thêm link bài viết vào file Excel như mẫu. Lưu ý không để bài viết quá dài.
+	- Cập nhật tất cả các thay đổi : "git stash" ; "git pull origin master"
+	
 DONATE NẾU CÓ NHU CẦU :
 
 	- STK : 0021000408140
