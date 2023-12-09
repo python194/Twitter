@@ -28,6 +28,7 @@ HƯỚNG DẪN CHUNG :
 	- Chạy File Twitter Automation để thưởng thức
 	- Để chéo tài khoản,vui lòng thêm link bài viết vào file Excel như mẫu. Lưu ý không để bài viết quá dài.
 	- Cập nhật tất cả các thay đổi : "git stash" ; "git pull origin master"
+	- Ngôn ngữ phải để bằng : Tiếng Anh
 	
 DONATE NẾU CÓ NHU CẦU :
 
