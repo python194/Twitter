@@ -20,13 +20,16 @@ HƯỚNG DẪN CHUNG :
 
 	- Cài đặt Chromium 114 bằng chocolatey : "choco install chromium --version=114.0.5735.199 -y"
 	- Cài đặt Git : "choco install git.install -y"
+	- Clone : "git clone https://github.com/python194/Twitter.git"
 	- Copy Folder chromedriver vào thư mục gốc của ổ C 
 	( sau khi copy xong sẽ có dạng như sau : "C:\chromedriver" )
 	- Chạy file chromedriver.exe trong Folder "C:\chromedriver" để xác nhận thư viện.
 	- Quay lại Folder "Twitter Automation" , đổi tên file "api_key.txt.example" thành "api_key.txt"
 	- Chạy File Twitter Automation để thưởng thức
-	- Để chéo tài khoản,vui lòng thêm link bài viết vào file Excel như mẫu
-
+	- Để chéo tài khoản,vui lòng thêm link bài viết vào file Excel như mẫu. Lưu ý không để bài viết quá dài.
+	- Cập nhật tất cả các thay đổi : "git stash" ; "git pull origin master"
+	- Ngôn ngữ phải để bằng : Tiếng Anh
+	
 DONATE NẾU CÓ NHU CẦU :
 
 	- STK : 0021000408140
