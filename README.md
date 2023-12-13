@@ -1,5 +1,5 @@
 UPDATE 1.0.3
-
+	- Update 13/12/2023 : bắt cáo chính xác, tùy chọn thời gian trước khi chạy tool =))
 	- Support Windows 10
 	- Add câu trả lời tùy chọn với ChatGPT
 	- Bỏ cuộn trang Ads
