@@ -1,0 +1,15 @@
+{
+    "time_cho_cuon_trang_chu" : "1",
+    "do_tre_moi_lan_cuon_trang" : "1",
+    "do_tre_sau_khi_follow" : "1",
+    "do_tre_sau_khi_like" : "1",
+    "do_tre_sau_khi_comment" : "1",
+    "do_tre_sau_khi_chup_anh_tuong_tac" : "1",
+    "so_lan_cuon_trang_truoc_khi_cheo_taikhoan" : "1",
+    "do_tre_sau_khi_mo_tab_ads" : "3",
+    "so_Pixel_moi_lan_cuon_trang" : "500",
+    "follow" : "no",
+    "like" : "yes",
+    "comment" : "no",
+    "chup_anh_tt" : "yes"
+}
