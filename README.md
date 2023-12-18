@@ -30,6 +30,21 @@ HƯỚNG DẪN CHUNG :
 	- 9. Để chéo tài khoản,vui lòng thêm link bài viết vào file Excel như mẫu. Lưu ý không để bài viết quá dài.
 	- 10. Cập nhật tất cả các thay đổi : "git stash" ; "git pull origin master"
 	- 11. Ngôn ngữ trình duyệt phải để bằng : Tiếng Anh
+
+	time_cho_cuon_trang_chu =====> Thời gian chờ trước khi cuộn trang chủ
+    do_tre_moi_lan_cuon_trang =====> Độ trễ sau mỗi 1 lần cuộn trang
+    do_tre_sau_khi_follow =====> Độ trễ sau mỗi 1 lần Follow người dùng
+    do_tre_sau_khi_like =====> Độ trễ sau mỗi 1 lần thực hiện thả tim vào bài viết
+    do_tre_sau_khi_comment =====> Độ trễ sau mỗi 1 lần thực hiện comment vào bài viết
+    do_tre_sau_khi_chup_anh_tuong_tac =====> Độ trễ sau mỗi 1 lần thực chụp ảnh tương tác
+    so_lan_cuon_trang_truoc_khi_cheo_taikhoan =====> Số lần cuộn trang trước khi chéo tài khoản
+    do_tre_sau_khi_mo_tab_ads =====> Độ trễ sau khi mở 1 tab quảng cáo
+    so_Pixel_moi_lan_cuon_trang =====> Số Pixcel mỗi 1 lần cuộn trang ( nên để từ 400-600 cho mượt )
+    follow =====> Nếu follow thì để yes , không follow thì để no
+    like =====> Nếu like thì để yes , không like thì để no
+    comment_bai_viet =====> Nếu comment thì để yes , không comment thì để no
+    chup_anh_tt =====> Nếu chụp ảnh tương tác thì để yes , không chụp ảnh tương tác thì để no
+    click_ads =====> Nếu chụp ảnh quảng cáo thì để yes , không chụp ảnh quảng cáo thì để no
 	
 DONATE NẾU CÓ NHU CẦU :
 
