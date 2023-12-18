@@ -1,4 +1,5 @@
 UPDATE 1.0.3
+	- Update 18/12/2023 : fix lỗi link không có cáo
 	- Update 13/12/2023 : bắt cáo chính xác, tùy chọn thời gian trước khi chạy tool =))
 	- Anh em chạy file Twitter automation.exe trong folder "Laster" nhé !
 	- Support Windows 10
